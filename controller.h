@@ -23,6 +23,6 @@ signals:
 
 private:
     QVector<int> m_values;
-    const int m_maxTrials = 13;
+    const int m_maxTrials = 14;
     bool m_finished = false;
 };
